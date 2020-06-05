@@ -1,0 +1,10 @@
+﻿  Account.cpp
+  BankManagementSystem.cpp
+  Controller.cpp
+C:\Users\yangy\source\repos\BankManagementSystem\BankManagementSystem\Controller.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
+  CreditAccount.cpp
+  Date.cpp
+C:\Users\yangy\source\repos\BankManagementSystem\BankManagementSystem\Date.cpp(26,133): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\yangy\source\repos\BankManagementSystem\BankManagementSystem\Date.cpp(15,6): warning C4101: 'amountday': unreferenced local variable
+  Generating Code...
+  BankManagementSystem.vcxproj -> C:\Users\yangy\source\repos\BankManagementSystem\Debug\BankManagementSystem.exe
